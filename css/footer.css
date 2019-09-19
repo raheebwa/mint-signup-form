@@ -26,3 +26,6 @@
 .nav-link,#footer{
     color:#505050
 }
+.nav-link:hover{
+    text-decoration: underline;
+}
