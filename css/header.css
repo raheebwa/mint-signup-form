@@ -1,0 +1,23 @@
+#header{
+    display:flex;
+    float:right;
+    align-items: center
+}
+
+#sign-up{
+    background-color: blue;
+    color:white;
+    margin-right:10vw;
+    margin-left:5vw;
+    height:5vh;
+    border:1px solid black;
+    border-radius:5px;
+    padding:10px 20px
+
+}
+
+#left-header{
+    font-size:90%;
+    padding-bottom:2px;
+}
+
