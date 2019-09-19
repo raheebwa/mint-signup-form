@@ -1,11 +1,12 @@
 #header{
     display:flex;
     float:right;
-    align-items: center
+    align-items: center;
+    padding: 2vh 1vw;
 }
 
 #sign-up{
-    background-color: blue;
+    background-color: #0077C5;
     color:white;
     margin-right:10vw;
     margin-left:5vw;
