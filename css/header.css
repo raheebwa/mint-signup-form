@@ -8,17 +8,27 @@
 #sign-up{
     background-color: #0077C5;
     color:white;
-    margin-right:10vw;
-    margin-left:5vw;
+    margin-right:7vw;
+    margin-left:2vw;
     height:5vh;
+    width:15vh;
     border:1px solid black;
     border-radius:5px;
-    padding:10px 20px
+    padding:10px 20px;
+    text-align:center
+}
 
+.fa-lock{
+    padding-right:3px;
+    font-size: 110%
 }
 
 #left-header{
-    font-size:90%;
-    padding-bottom:2px;
+    font-size:75%;
+    
+}
+
+#question{
+    padding-bottom:4px
 }
 
