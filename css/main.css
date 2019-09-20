@@ -52,6 +52,9 @@
   padding: 2vh 0;
 }
 
+h3 {
+  font-size: 14px;
+}
 #signup-box-body section header h3 {
   font-style: normal;
   font-weight: 300;
@@ -85,17 +88,17 @@ form label {
   width: 100%;
 }
 
-input{
-    border: 1px solid #C1C5C8;
-    border-radius: 3px;
-    line-height: 1.3em;
-    color: #000;
-    font-size: 1.2em;
-    width: 90%;
-    min-width: 160px;
-    padding-left: 8px;
-    padding-right: 6px;
-    height: 34px;
+input {
+  border: 1px solid #c1c5c8;
+  border-radius: 3px;
+  line-height: 1.3em;
+  color: #000;
+  font-size: 1.2em;
+  width: 100%;
+  min-width: 160px;
+  padding-left: 8px;
+  padding-right: 6px;
+  height: 34px;
 }
 
 .form-help-text {
@@ -104,59 +107,57 @@ input{
   color: #444;
 }
 
-form button{
-    background: #0077C5;
-    border: #0077C5;
-    border-radius: 4px;
-    text-shadow: none;
-    font-weight: 400;
-    color: #FFF;
-    box-shadow: 0 1px 1px 0 rgba(0,0,0,.75);
-    width: 90%;
-    height: 6vh;
-    /* display: inline-block; */
-    padding: 6px 12px;
-    /* line-height: 1.428571429; */
-    white-space: nowrap;
-    vertical-align: middle;
-    cursor: pointer;
-    text-align: center;
-    margin-bottom: 3vh;
+form button {
+  background: #0077c5;
+  border: #0077c5;
+  border-radius: 4px;
+  text-shadow: none;
+  font-weight: 400;
+  color: #fff;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.75);
+  width: 100%;
+  height: 6vh;
+
+  /* display: inline-block; */
+  padding: 6px 12px;
+
+  /* line-height: 1.428571429; */
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 3vh;
 }
 
- .statement p{
-    font-size: 12px;
-    text-align: center;
-    font-style: italic;
-    margin-bottom: 2vh;
+.statement p {
+  font-size: 12px;
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 2vh;
 }
 
-#recaptcha{
-    padding: 2vh 3vw;
-    background-color: #ECEEF1;
-    margin: 0 -3vw -2vh;
+#recaptcha {
+  padding: 2vh 3vw;
+  background-color: #eceef1;
+  margin: 0 -3vw -2vh;
 }
 
-#recaptcha p{
-    font-size: 10px;
-    text-align: center;
+#recaptcha p {
+  font-size: 10px;
+  text-align: center;
 }
 
-h3{
-    font-size:14px
+#password {
+  background-image: url(/images/lock.png);
+  background-position: 95%;
+  background-repeat: no-repeat;
+  background-size: 15px;
 }
-
-#password{
-    background-image: url(/images/lock.png);
-    background-position: 95%;
-    background-repeat: no-repeat;
-    background-size: 15px
+.statement {
+  font-size: 12px;
+  padding-bottom: 25px;
 }
-.statement{
-font-size:12px;
-padding-bottom: 25px;
-}
-.toc{
-    text-align: center;
-    padding-bottom: 5px
+.toc {
+  text-align: center;
+  padding-bottom: 5px;
 }
