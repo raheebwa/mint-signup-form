@@ -1,36 +1,32 @@
-#header{
-    display:flex;
-    float:right;
-    align-items: center;
-    padding: 2vh 1vw;
+#header {
+  display: flex;
+  float: right;
+  align-items: center;
+  padding: 2vh 1vw;
 }
 
-#sign-up{
-    background-color: #0077C5;
-    color:white;
-    margin-right:7vw;
-    margin-left:2vw;
-    height:5vh;
-    width:15vh;
-    border:1px solid black;
-    border-radius:5px;
-    padding:10px 20px;
-    text-align:center
+#sign-up {
+  background-color: #0077c5;
+  color: white;
+  margin-right: 7vw;
+  margin-left: 2vw;
+  height: 5vh;
+  width: 15vh;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-align: center;
 }
 
-.fa-lock{
-    padding-right:3px;
-    font-size: 110%
+.fa-lock {
+  padding-right: 3px;
+  font-size: 110%;
 }
 
-#left-header{
-    font-size:75%;
-    
-
-    
+#left-header {
+  font-size: 75%;
 }
 
-#question{
-    padding-bottom:4px
+#question {
+  padding-bottom: 4px;
 }
-
