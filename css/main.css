@@ -124,7 +124,7 @@ form button{
     margin-bottom: 3vh;
 }
 
-#toc p{
+ .statement p{
     font-size: 12px;
     text-align: center;
     font-style: italic;
@@ -152,4 +152,11 @@ h3{
     background-repeat: no-repeat;
     background-size: 15px
 }
-
+.statement{
+font-size:12px;
+padding-bottom: 25px;
+}
+.toc{
+    text-align: center;
+    padding-bottom: 5px
+}
