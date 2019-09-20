@@ -93,7 +93,7 @@ input{
     line-height: 1.3em;
     color: #000;
     font-size: 1.2em;
-    width: 320px;
+    width: 90%;
     min-width: 160px;
     padding-left: 8px;
     padding-right: 6px;
@@ -114,7 +114,7 @@ form button{
     font-weight: 400;
     color: #FFF;
     box-shadow: 0 1px 1px 0 rgba(0,0,0,.75);
-    width: 100%;
+    width: 90%;
     height: 6vh;
     /* display: inline-block; */
     padding: 6px 12px;
@@ -143,3 +143,15 @@ form button{
     font-size: 10px;
     text-align: center;
 }
+
+h3{
+    font-size:14px
+}
+
+#password{
+    background-image: url(/images/lock.png);
+    background-position: 95%;
+    background-repeat: no-repeat;
+    background-size: 15px
+}
+
