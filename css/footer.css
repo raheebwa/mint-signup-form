@@ -12,18 +12,18 @@
   padding: 20px;
 }
 
-#footer-nav {
+.footer-nav {
   padding: 8px;
   padding-bottom: 3px;
 }
-#footer-nav li,
-#footer2 {
+.footer-nav li,
+.footer2 {
   display: inline;
   padding-left: 5px;
   padding-bottom: 3px;
 }
 .nav-link,
-#footer {
+.footer {
   color: #505050;
 }
 .nav-link:hover {

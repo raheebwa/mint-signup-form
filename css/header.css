@@ -5,7 +5,7 @@
   padding: 2vh 1vw;
 }
 
-#sign-up {
+.sign-up {
   background-color: #0077c5;
   color: white;
   margin-right: 7vw;
@@ -23,10 +23,10 @@
   font-size: 110%;
 }
 
-#left-header {
+.left-header {
   font-size: 75%;
 }
 
-#question {
+.question {
   padding-bottom: 4px;
 }
