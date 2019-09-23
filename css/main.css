@@ -148,7 +148,7 @@ form button {
 }
 
 .password {
-  background-image: url(/images/lock.png);
+  background-image: url(images/lock.png);
   background-position: 95%;
   background-repeat: no-repeat;
   background-size: 15px;
